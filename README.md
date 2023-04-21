@@ -66,3 +66,27 @@ Python Django
 Firebase
 Base de datos Relacional
 Base de datos No Relacional (Opcional)
+
+
+**********************************************************************************
+TECNOLOGIAS DEL SISTEMA
+**********************************************************************************
+FrontEnd: 
+NPM - 9.4.1
+
+Angular CLI: 15.1.4
+Node: 18.14.2
+Package Manager: npm 9.4.1
+OS: win32 x64
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.1501.4
+@angular-devkit/core         15.1.4
+@angular-devkit/schematics   15.1.4
+@schematics/angular          15.1.4
+
+**********************************************************************************
+
+BackEnd: 
+Python - 3.10.4
